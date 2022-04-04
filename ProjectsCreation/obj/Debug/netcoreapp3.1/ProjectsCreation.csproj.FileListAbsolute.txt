@@ -1,0 +1,14 @@
+E:\programing basics\C#\firststeps\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfo.cs
+E:\programing basics\C#\firststeps\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.exe
+E:\programing basics\C#\firststeps\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.deps.json
+E:\programing basics\C#\firststeps\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.json
+E:\programing basics\C#\firststeps\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.dll
+E:\programing basics\C#\firststeps\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.pdb
+E:\programing basics\C#\firststeps\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.dll
+E:\programing basics\C#\firststeps\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.pdb
+E:\programing basics\C#\firststeps\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.genruntimeconfig.cache
+E:\programing basics\C#\firststeps\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csproj.AssemblyReference.cache
