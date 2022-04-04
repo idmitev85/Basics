@@ -1,0 +1,14 @@
+E:\programing basics\C#\firststeps\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.exe
+E:\programing basics\C#\firststeps\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.deps.json
+E:\programing basics\C#\firststeps\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.runtimeconfig.json
+E:\programing basics\C#\firststeps\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.dll
+E:\programing basics\C#\firststeps\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.pdb
+E:\programing basics\C#\firststeps\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.csproj.AssemblyReference.cache
+E:\programing basics\C#\firststeps\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.AssemblyInfo.cs
+E:\programing basics\C#\firststeps\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.dll
+E:\programing basics\C#\firststeps\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.pdb
+E:\programing basics\C#\firststeps\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.genruntimeconfig.cache
