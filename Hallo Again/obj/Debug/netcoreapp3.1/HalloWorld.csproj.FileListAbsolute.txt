@@ -1,0 +1,5 @@
+E:\programing basics\C#\firststeps\Hallo Again\obj\Debug\netcoreapp3.1\HalloWorld.csproj.AssemblyReference.cache
+E:\programing basics\C#\firststeps\Hallo Again\obj\Debug\netcoreapp3.1\HalloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps\Hallo Again\obj\Debug\netcoreapp3.1\HalloWorld.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps\Hallo Again\obj\Debug\netcoreapp3.1\HalloWorld.AssemblyInfo.cs
+E:\programing basics\C#\firststeps\Hallo Again\obj\Debug\netcoreapp3.1\HalloWorld.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+E:\programing basics\C#\firststeps\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.exe
+E:\programing basics\C#\firststeps\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.deps.json
+E:\programing basics\C#\firststeps\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.json
+E:\programing basics\C#\firststeps\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.dll
+E:\programing basics\C#\firststeps\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.pdb
+E:\programing basics\C#\firststeps\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.csproj.AssemblyReference.cache
+E:\programing basics\C#\firststeps\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfo.cs
+E:\programing basics\C#\firststeps\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.dll
+E:\programing basics\C#\firststeps\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.pdb
+E:\programing basics\C#\firststeps\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.genruntimeconfig.cache
