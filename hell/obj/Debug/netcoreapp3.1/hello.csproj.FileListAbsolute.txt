@@ -1,0 +1,14 @@
+E:\programing basics\C#\firststeps\hell\bin\Debug\netcoreapp3.1\hello.exe
+E:\programing basics\C#\firststeps\hell\bin\Debug\netcoreapp3.1\hello.deps.json
+E:\programing basics\C#\firststeps\hell\bin\Debug\netcoreapp3.1\hello.runtimeconfig.json
+E:\programing basics\C#\firststeps\hell\bin\Debug\netcoreapp3.1\hello.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps\hell\bin\Debug\netcoreapp3.1\hello.dll
+E:\programing basics\C#\firststeps\hell\bin\Debug\netcoreapp3.1\hello.pdb
+E:\programing basics\C#\firststeps\hell\obj\Debug\netcoreapp3.1\hello.csproj.AssemblyReference.cache
+E:\programing basics\C#\firststeps\hell\obj\Debug\netcoreapp3.1\hello.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps\hell\obj\Debug\netcoreapp3.1\hello.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps\hell\obj\Debug\netcoreapp3.1\hello.AssemblyInfo.cs
+E:\programing basics\C#\firststeps\hell\obj\Debug\netcoreapp3.1\hello.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps\hell\obj\Debug\netcoreapp3.1\hello.dll
+E:\programing basics\C#\firststeps\hell\obj\Debug\netcoreapp3.1\hello.pdb
+E:\programing basics\C#\firststeps\hell\obj\Debug\netcoreapp3.1\hello.genruntimeconfig.cache

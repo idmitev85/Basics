@@ -1,0 +1,13 @@
+E:\programing basics\C#\firststeps\HalloWorld\bin\Debug\netcoreapp3.1\HalloWorld.exe
+E:\programing basics\C#\firststeps\HalloWorld\bin\Debug\netcoreapp3.1\HalloWorld.deps.json
+E:\programing basics\C#\firststeps\HalloWorld\bin\Debug\netcoreapp3.1\HalloWorld.runtimeconfig.json
+E:\programing basics\C#\firststeps\HalloWorld\bin\Debug\netcoreapp3.1\HalloWorld.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps\HalloWorld\bin\Debug\netcoreapp3.1\HalloWorld.dll
+E:\programing basics\C#\firststeps\HalloWorld\bin\Debug\netcoreapp3.1\HalloWorld.pdb
+E:\programing basics\C#\firststeps\HalloWorld\obj\Debug\netcoreapp3.1\HalloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps\HalloWorld\obj\Debug\netcoreapp3.1\HalloWorld.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps\HalloWorld\obj\Debug\netcoreapp3.1\HalloWorld.AssemblyInfo.cs
+E:\programing basics\C#\firststeps\HalloWorld\obj\Debug\netcoreapp3.1\HalloWorld.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps\HalloWorld\obj\Debug\netcoreapp3.1\HalloWorld.dll
+E:\programing basics\C#\firststeps\HalloWorld\obj\Debug\netcoreapp3.1\HalloWorld.pdb
+E:\programing basics\C#\firststeps\HalloWorld\obj\Debug\netcoreapp3.1\HalloWorld.genruntimeconfig.cache
