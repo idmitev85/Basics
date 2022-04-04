@@ -1,0 +1,14 @@
+E:\programing basics\C#\firststeps\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.exe
+E:\programing basics\C#\firststeps\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.deps.json
+E:\programing basics\C#\firststeps\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.runtimeconfig.json
+E:\programing basics\C#\firststeps\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.dll
+E:\programing basics\C#\firststeps\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.pdb
+E:\programing basics\C#\firststeps\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.csproj.AssemblyReference.cache
+E:\programing basics\C#\firststeps\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.AssemblyInfo.cs
+E:\programing basics\C#\firststeps\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.dll
+E:\programing basics\C#\firststeps\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.pdb
+E:\programing basics\C#\firststeps\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.genruntimeconfig.cache
