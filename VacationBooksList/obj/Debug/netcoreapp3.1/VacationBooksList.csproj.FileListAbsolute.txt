@@ -1,0 +1,13 @@
+E:\programing basics\C#\firststeps_2\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.exe
+E:\programing basics\C#\firststeps_2\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.deps.json
+E:\programing basics\C#\firststeps_2\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.runtimeconfig.json
+E:\programing basics\C#\firststeps_2\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps_2\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.dll
+E:\programing basics\C#\firststeps_2\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.pdb
+E:\programing basics\C#\firststeps_2\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps_2\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps_2\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.AssemblyInfo.cs
+E:\programing basics\C#\firststeps_2\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps_2\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.dll
+E:\programing basics\C#\firststeps_2\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.pdb
+E:\programing basics\C#\firststeps_2\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.genruntimeconfig.cache
