@@ -1,0 +1,14 @@
+E:\programing basics\C#\firststeps_2\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.exe
+E:\programing basics\C#\firststeps_2\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.deps.json
+E:\programing basics\C#\firststeps_2\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.json
+E:\programing basics\C#\firststeps_2\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps_2\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.dll
+E:\programing basics\C#\firststeps_2\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.pdb
+E:\programing basics\C#\firststeps_2\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.csproj.AssemblyReference.cache
+E:\programing basics\C#\firststeps_2\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps_2\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps_2\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfo.cs
+E:\programing basics\C#\firststeps_2\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps_2\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.dll
+E:\programing basics\C#\firststeps_2\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.pdb
+E:\programing basics\C#\firststeps_2\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.genruntimeconfig.cache
