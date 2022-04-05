@@ -1,0 +1,13 @@
+E:\programing basics\C#\firststeps_2\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.exe
+E:\programing basics\C#\firststeps_2\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.deps.json
+E:\programing basics\C#\firststeps_2\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.runtimeconfig.json
+E:\programing basics\C#\firststeps_2\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps_2\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.dll
+E:\programing basics\C#\firststeps_2\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.pdb
+E:\programing basics\C#\firststeps_2\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps_2\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps_2\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.AssemblyInfo.cs
+E:\programing basics\C#\firststeps_2\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps_2\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.dll
+E:\programing basics\C#\firststeps_2\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.pdb
+E:\programing basics\C#\firststeps_2\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.genruntimeconfig.cache
