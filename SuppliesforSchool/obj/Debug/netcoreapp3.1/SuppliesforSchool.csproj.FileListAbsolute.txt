@@ -1,0 +1,14 @@
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.exe
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.deps.json
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.runtimeconfig.json
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.dll
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.pdb
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.csproj.AssemblyReference.cache
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.AssemblyInfo.cs
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.dll
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.pdb
+E:\programing basics\C#\firststeps_2\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.genruntimeconfig.cache
