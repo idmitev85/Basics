@@ -1,0 +1,14 @@
+E:\programing basics\C#\firststeps_2\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.exe
+E:\programing basics\C#\firststeps_2\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.deps.json
+E:\programing basics\C#\firststeps_2\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.json
+E:\programing basics\C#\firststeps_2\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps_2\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.dll
+E:\programing basics\C#\firststeps_2\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.pdb
+E:\programing basics\C#\firststeps_2\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csproj.AssemblyReference.cache
+E:\programing basics\C#\firststeps_2\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps_2\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps_2\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfo.cs
+E:\programing basics\C#\firststeps_2\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps_2\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.dll
+E:\programing basics\C#\firststeps_2\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.pdb
+E:\programing basics\C#\firststeps_2\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.genruntimeconfig.cache

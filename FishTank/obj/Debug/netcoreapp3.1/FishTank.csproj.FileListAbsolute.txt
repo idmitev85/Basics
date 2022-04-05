@@ -1,0 +1,14 @@
+E:\programing basics\C#\firststeps_2\FishTank\bin\Debug\netcoreapp3.1\FishTank.exe
+E:\programing basics\C#\firststeps_2\FishTank\bin\Debug\netcoreapp3.1\FishTank.deps.json
+E:\programing basics\C#\firststeps_2\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.json
+E:\programing basics\C#\firststeps_2\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.dev.json
+E:\programing basics\C#\firststeps_2\FishTank\bin\Debug\netcoreapp3.1\FishTank.dll
+E:\programing basics\C#\firststeps_2\FishTank\bin\Debug\netcoreapp3.1\FishTank.pdb
+E:\programing basics\C#\firststeps_2\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.AssemblyReference.cache
+E:\programing basics\C#\firststeps_2\FishTank\obj\Debug\netcoreapp3.1\FishTank.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\firststeps_2\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfoInputs.cache
+E:\programing basics\C#\firststeps_2\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfo.cs
+E:\programing basics\C#\firststeps_2\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\firststeps_2\FishTank\obj\Debug\netcoreapp3.1\FishTank.dll
+E:\programing basics\C#\firststeps_2\FishTank\obj\Debug\netcoreapp3.1\FishTank.pdb
+E:\programing basics\C#\firststeps_2\FishTank\obj\Debug\netcoreapp3.1\FishTank.genruntimeconfig.cache
