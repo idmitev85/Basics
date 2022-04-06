@@ -1,0 +1,14 @@
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.exe
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.deps.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.runtimeconfig.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.runtimeconfig.dev.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\CircleAreaAndPerimeter.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.csproj.AssemblyReference.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.AssemblyInfo.cs
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\CircleAreaAndPerimeter.genruntimeconfig.cache

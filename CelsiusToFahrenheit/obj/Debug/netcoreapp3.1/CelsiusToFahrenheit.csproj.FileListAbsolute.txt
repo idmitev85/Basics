@@ -1,0 +1,14 @@
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.exe
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.deps.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.runtimeconfig.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.runtimeconfig.dev.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToFahrenheit.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.csproj.AssemblyReference.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.AssemblyInfoInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.AssemblyInfo.cs
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToFahrenheit.genruntimeconfig.cache
