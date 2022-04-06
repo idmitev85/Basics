@@ -1,0 +1,14 @@
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.exe
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.deps.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.runtimeconfig.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.runtimeconfig.dev.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\bin\Debug\netcoreapp3.1\WeatherForecast.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.csproj.AssemblyReference.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.AssemblyInfoInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.AssemblyInfo.cs
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\WeatherForecast\obj\Debug\netcoreapp3.1\WeatherForecast.genruntimeconfig.cache
