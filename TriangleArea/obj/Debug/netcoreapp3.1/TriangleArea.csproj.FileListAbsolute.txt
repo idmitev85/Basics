@@ -1,0 +1,13 @@
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.exe
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.deps.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.runtimeconfig.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.runtimeconfig.dev.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\bin\Debug\netcoreapp3.1\TriangleArea.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.AssemblyInfoInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.AssemblyInfo.cs
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TriangleArea\obj\Debug\netcoreapp3.1\TriangleArea.genruntimeconfig.cache

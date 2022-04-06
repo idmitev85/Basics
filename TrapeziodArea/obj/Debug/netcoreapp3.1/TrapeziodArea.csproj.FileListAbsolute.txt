@@ -1,0 +1,14 @@
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.exe
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.deps.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.runtimeconfig.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.runtimeconfig.dev.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\bin\Debug\netcoreapp3.1\TrapeziodArea.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.csproj.AssemblyReference.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.AssemblyInfoInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.AssemblyInfo.cs
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrapeziodArea\obj\Debug\netcoreapp3.1\TrapeziodArea.genruntimeconfig.cache
