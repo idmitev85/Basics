@@ -1,0 +1,14 @@
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.exe
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.deps.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.runtimeconfig.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.runtimeconfig.dev.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\bin\Debug\netcoreapp3.1\TrainingLab.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.csproj.AssemblyReference.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.AssemblyInfoInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.AssemblyInfo.cs
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\TrainingLab\obj\Debug\netcoreapp3.1\TrainingLab.genruntimeconfig.cache

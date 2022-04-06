@@ -1,0 +1,14 @@
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.exe
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.deps.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.runtimeconfig.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.runtimeconfig.dev.json
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.csproj.AssemblyReference.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.AssemblyInfoInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.AssemblyInfo.cs
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.dll
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.pdb
+E:\programing basics\C#\FirstStepsInCoding-MoreExercises\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.genruntimeconfig.cache
