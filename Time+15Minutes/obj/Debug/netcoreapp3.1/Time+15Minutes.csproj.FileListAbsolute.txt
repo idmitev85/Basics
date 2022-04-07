@@ -1,0 +1,14 @@
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.exe
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.deps.json
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.runtimeconfig.json
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.runtimeconfig.dev.json
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.dll
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.pdb
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.csproj.AssemblyReference.cache
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.AssemblyInfoInputs.cache
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.AssemblyInfo.cs
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.dll
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.pdb
+E:\programing basics\C#\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.genruntimeconfig.cache

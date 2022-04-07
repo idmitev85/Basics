@@ -1,0 +1,14 @@
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.exe
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.dll
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csproj.AssemblyReference.cache
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.dll
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+E:\programing basics\C#\ConditionalStatementsExercise\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache
