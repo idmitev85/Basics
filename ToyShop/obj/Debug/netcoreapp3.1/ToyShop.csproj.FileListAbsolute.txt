@@ -1,0 +1,14 @@
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.exe
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.deps.json
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.json
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.dev.json
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.dll
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.pdb
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csproj.AssemblyReference.cache
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfoInputs.cache
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfo.cs
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.dll
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.pdb
+E:\programing basics\C#\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.genruntimeconfig.cache
