@@ -1,0 +1,14 @@
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.exe
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.deps.json
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.runtimeconfig.json
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.runtimeconfig.dev.json
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.dll
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.pdb
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.csproj.AssemblyReference.cache
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.AssemblyInfoInputs.cache
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.AssemblyInfo.cs
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.dll
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.pdb
+E:\programing basics\C#\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.genruntimeconfig.cache
