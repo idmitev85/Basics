@@ -1,0 +1,14 @@
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.exe
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.deps.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.runtimeconfig.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.runtimeconfig.dev.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.csproj.AssemblyReference.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.AssemblyInfoInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.AssemblyInfo.cs
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.genruntimeconfig.cache
