@@ -1,0 +1,14 @@
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.exe
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.deps.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.runtimeconfig.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.runtimeconfig.dev.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.csproj.AssemblyReference.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.AssemblyInfoInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.AssemblyInfo.cs
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.genruntimeconfig.cache

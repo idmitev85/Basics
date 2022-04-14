@@ -1,0 +1,14 @@
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.csproj.AssemblyReference.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.AssemblyInfoInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.AssemblyInfo.cs
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.exe
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.deps.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.runtimeconfig.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.runtimeconfig.dev.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.genruntimeconfig.cache
