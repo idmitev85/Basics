@@ -1,0 +1,13 @@
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\bin\Debug\netcoreapp3.1\Pets.exe
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\bin\Debug\netcoreapp3.1\Pets.deps.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.dev.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\bin\Debug\netcoreapp3.1\Pets.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\bin\Debug\netcoreapp3.1\Pets.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\obj\Debug\netcoreapp3.1\Pets.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfoInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfo.cs
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\obj\Debug\netcoreapp3.1\Pets.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\obj\Debug\netcoreapp3.1\Pets.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\obj\Debug\netcoreapp3.1\Pets.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Pets\obj\Debug\netcoreapp3.1\Pets.genruntimeconfig.cache

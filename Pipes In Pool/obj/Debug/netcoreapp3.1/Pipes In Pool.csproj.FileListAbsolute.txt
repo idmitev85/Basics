@@ -1,0 +1,14 @@
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.exe
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.deps.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.runtimeconfig.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.runtimeconfig.dev.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.csproj.AssemblyReference.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.AssemblyInfoInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.AssemblyInfo.cs
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.genruntimeconfig.cache
