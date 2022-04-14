@@ -1,0 +1,14 @@
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\bin\Debug\netcoreapp3.1\Firm.exe
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\bin\Debug\netcoreapp3.1\Firm.deps.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\bin\Debug\netcoreapp3.1\Firm.runtimeconfig.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\bin\Debug\netcoreapp3.1\Firm.runtimeconfig.dev.json
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\bin\Debug\netcoreapp3.1\Firm.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\bin\Debug\netcoreapp3.1\Firm.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\obj\Debug\netcoreapp3.1\Firm.csproj.AssemblyReference.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\obj\Debug\netcoreapp3.1\Firm.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\obj\Debug\netcoreapp3.1\Firm.AssemblyInfoInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\obj\Debug\netcoreapp3.1\Firm.AssemblyInfo.cs
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\obj\Debug\netcoreapp3.1\Firm.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\obj\Debug\netcoreapp3.1\Firm.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\obj\Debug\netcoreapp3.1\Firm.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\Firm\obj\Debug\netcoreapp3.1\Firm.genruntimeconfig.cache
