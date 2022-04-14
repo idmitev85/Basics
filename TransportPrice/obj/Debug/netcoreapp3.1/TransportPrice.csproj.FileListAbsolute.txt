@@ -1,0 +1,14 @@
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.exe
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.deps.json
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.runtimeconfig.json
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.runtimeconfig.dev.json
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.csproj.AssemblyReference.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.AssemblyInfoInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.AssemblyInfo.cs
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.dll
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.pdb
+E:\programing basics\C#\Conditional Statements - More Exercises\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.genruntimeconfig.cache
