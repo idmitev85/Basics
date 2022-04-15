@@ -1,0 +1,14 @@
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\obj\Debug\netcoreapp3.1\submitASolution.csproj.AssemblyReference.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\obj\Debug\netcoreapp3.1\submitASolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\obj\Debug\netcoreapp3.1\submitASolution.AssemblyInfoInputs.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\obj\Debug\netcoreapp3.1\submitASolution.AssemblyInfo.cs
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\obj\Debug\netcoreapp3.1\submitASolution.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\bin\Debug\netcoreapp3.1\submitASolution.exe
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\bin\Debug\netcoreapp3.1\submitASolution.deps.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\bin\Debug\netcoreapp3.1\submitASolution.runtimeconfig.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\bin\Debug\netcoreapp3.1\submitASolution.runtimeconfig.dev.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\bin\Debug\netcoreapp3.1\submitASolution.dll
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\bin\Debug\netcoreapp3.1\submitASolution.pdb
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\obj\Debug\netcoreapp3.1\submitASolution.dll
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\obj\Debug\netcoreapp3.1\submitASolution.pdb
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\submitASolution\obj\Debug\netcoreapp3.1\submitASolution.genruntimeconfig.cache
