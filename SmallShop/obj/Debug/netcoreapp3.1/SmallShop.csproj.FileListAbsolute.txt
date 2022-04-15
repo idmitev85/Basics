@@ -1,0 +1,14 @@
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.exe
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.deps.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.dev.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.dll
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.pdb
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.AssemblyReference.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfoInputs.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfo.cs
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.dll
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.pdb
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.genruntimeconfig.cache
