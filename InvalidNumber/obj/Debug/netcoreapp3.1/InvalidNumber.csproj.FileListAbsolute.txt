@@ -1,0 +1,14 @@
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.exe
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.deps.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.dev.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.dll
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.pdb
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfoInputs.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfo.cs
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.dll
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.pdb
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.genruntimeconfig.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.csproj.AssemblyReference.cache
