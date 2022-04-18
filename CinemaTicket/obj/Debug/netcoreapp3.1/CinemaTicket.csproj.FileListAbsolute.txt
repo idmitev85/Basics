@@ -1,0 +1,14 @@
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.exe
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.deps.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.runtimeconfig.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.runtimeconfig.dev.json
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.dll
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.pdb
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.csproj.AssemblyReference.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.AssemblyInfoInputs.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.AssemblyInfo.cs
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.dll
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.pdb
+E:\programing basics\C#\ConditionalStatementsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.genruntimeconfig.cache
