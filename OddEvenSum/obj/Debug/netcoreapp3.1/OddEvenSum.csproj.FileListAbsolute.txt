@@ -1,0 +1,14 @@
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.exe
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.deps.json
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.runtimeconfig.json
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.runtimeconfig.dev.json
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.dll
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.pdb
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.csproj.AssemblyReference.cache
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.AssemblyInfoInputs.cache
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.AssemblyInfo.cs
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.dll
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.pdb
+E:\programing basics\C#\ForLoop-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.genruntimeconfig.cache
