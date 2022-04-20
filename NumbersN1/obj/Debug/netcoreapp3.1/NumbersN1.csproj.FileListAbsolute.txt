@@ -1,0 +1,14 @@
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\bin\Debug\netcoreapp3.1\NumbersN1.exe
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\bin\Debug\netcoreapp3.1\NumbersN1.deps.json
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\bin\Debug\netcoreapp3.1\NumbersN1.runtimeconfig.json
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\bin\Debug\netcoreapp3.1\NumbersN1.runtimeconfig.dev.json
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\bin\Debug\netcoreapp3.1\NumbersN1.dll
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\bin\Debug\netcoreapp3.1\NumbersN1.pdb
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\obj\Debug\netcoreapp3.1\NumbersN1.csproj.AssemblyReference.cache
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\obj\Debug\netcoreapp3.1\NumbersN1.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\obj\Debug\netcoreapp3.1\NumbersN1.AssemblyInfoInputs.cache
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\obj\Debug\netcoreapp3.1\NumbersN1.AssemblyInfo.cs
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\obj\Debug\netcoreapp3.1\NumbersN1.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\obj\Debug\netcoreapp3.1\NumbersN1.dll
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\obj\Debug\netcoreapp3.1\NumbersN1.pdb
+E:\programing basics\C#\ForLoop-Lab\NumbersN1\obj\Debug\netcoreapp3.1\NumbersN1.genruntimeconfig.cache
