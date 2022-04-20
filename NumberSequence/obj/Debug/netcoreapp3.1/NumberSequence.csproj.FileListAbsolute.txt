@@ -1,0 +1,14 @@
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.AssemblyReference.cache
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+E:\programing basics\C#\ForLoop-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache
