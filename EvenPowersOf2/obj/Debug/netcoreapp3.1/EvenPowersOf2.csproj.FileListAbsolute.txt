@@ -1,0 +1,14 @@
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.exe
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.deps.json
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.runtimeconfig.json
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.runtimeconfig.dev.json
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.dll
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\bin\Debug\netcoreapp3.1\EvenPowersOf2.pdb
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.csproj.AssemblyReference.cache
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.AssemblyInfoInputs.cache
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.AssemblyInfo.cs
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.dll
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.pdb
+E:\programing basics\C#\ForLoop-Lab\EvenPowersOf2\obj\Debug\netcoreapp3.1\EvenPowersOf2.genruntimeconfig.cache
