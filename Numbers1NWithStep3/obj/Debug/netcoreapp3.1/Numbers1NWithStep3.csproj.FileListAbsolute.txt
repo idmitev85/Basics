@@ -1,0 +1,14 @@
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\bin\Debug\netcoreapp3.1\Numbers1NWithStep3.exe
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\bin\Debug\netcoreapp3.1\Numbers1NWithStep3.deps.json
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\bin\Debug\netcoreapp3.1\Numbers1NWithStep3.runtimeconfig.json
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\bin\Debug\netcoreapp3.1\Numbers1NWithStep3.runtimeconfig.dev.json
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\bin\Debug\netcoreapp3.1\Numbers1NWithStep3.dll
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\bin\Debug\netcoreapp3.1\Numbers1NWithStep3.pdb
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\obj\Debug\netcoreapp3.1\Numbers1NWithStep3.csproj.AssemblyReference.cache
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\obj\Debug\netcoreapp3.1\Numbers1NWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\obj\Debug\netcoreapp3.1\Numbers1NWithStep3.AssemblyInfoInputs.cache
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\obj\Debug\netcoreapp3.1\Numbers1NWithStep3.AssemblyInfo.cs
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\obj\Debug\netcoreapp3.1\Numbers1NWithStep3.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\obj\Debug\netcoreapp3.1\Numbers1NWithStep3.dll
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\obj\Debug\netcoreapp3.1\Numbers1NWithStep3.pdb
+E:\programing basics\C#\ForLoop-Lab\Numbers1NWithStep3\obj\Debug\netcoreapp3.1\Numbers1NWithStep3.genruntimeconfig.cache
