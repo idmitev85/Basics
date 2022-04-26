@@ -1,0 +1,13 @@
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.exe
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.deps.json
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.json
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.dev.json
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.dll
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.pdb
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfoInputs.cache
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfo.cs
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.dll
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.pdb
+E:\programing basics\C#\ForLoop-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.genruntimeconfig.cache
