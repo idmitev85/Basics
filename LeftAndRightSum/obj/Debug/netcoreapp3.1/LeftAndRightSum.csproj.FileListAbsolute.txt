@@ -1,0 +1,13 @@
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.exe
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.deps.json
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.runtimeconfig.json
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.runtimeconfig.dev.json
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.dll
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.pdb
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.AssemblyInfoInputs.cache
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.AssemblyInfo.cs
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.csproj.CoreCompileInputs.cache
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.dll
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.pdb
+E:\programing basics\C#\ForLoop-Lab\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.genruntimeconfig.cache
